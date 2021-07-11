@@ -1,11 +1,14 @@
 <template>
-    <h2>category</h2>
+  <div class="category">
+      category
+  </div>
 </template>
 
 <script>
 export default {
-    
+  
 }
+
 </script>
 
 <style scoped>
